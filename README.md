@@ -5,6 +5,7 @@
 ---I have included a file with links to two Tableau Public visualizations.
 
 ---I have also included two MATLAB files that contain my other two visualizations. They are labeled "ASSIGNMENT1.M" and "Assignment1_Matlab2.M"
+
 ---Additionally, I have posted files containing my MATLAB source code for each of my visualizations. 
 
 
