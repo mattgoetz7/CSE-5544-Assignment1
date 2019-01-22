@@ -6,7 +6,7 @@
 
 ---I have also included two MATLAB files that contain my other two visualizations. They are labeled "ASSIGNMENT1.m" and "Assignment1_Matlab2.m"
 
----Additionally, I have posted files containing my MATLAB source code for each of my visualizations.
+---Additionally, I have posted files containing my MATLAB source code for each of the MATLAB visualizations.
 
 ---Also, my reviews are also located in the repository labeled "Assignment 1 Reviews - CSE 5544.pdf"
 
