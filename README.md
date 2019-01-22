@@ -2,9 +2,10 @@
 
 
 
-I have included a file with links to two Tableau Public visualizations.
+---I have included a file with links to two Tableau Public visualizations.
 
-I have also included two MATLAB files that contain my other two visualizations. Additionally, I have posted files containing my MATLAB source code for each of my visualizations. 
+---I have also included two MATLAB files that contain my other two visualizations. They are labeled "ASSIGNMENT1.M" and "Assignment1_Matlab2.M"
+---Additionally, I have posted files containing my MATLAB source code for each of my visualizations. 
 
 
 My favorite visualization I created is the plot using circles I created in Tableau. I think it most effectively showed changes in medical encounters over time based on gender. The colors are visually appealing and you can easily extract a lot of information from it. 
