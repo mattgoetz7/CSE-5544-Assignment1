@@ -4,7 +4,7 @@
 
 ---I have included a file with links to two Tableau Public visualizations.
 
----I have also included two MATLAB files that contain my other two visualizations. They are labeled "ASSIGNMENT1.m" and "Assignment1_Matlab2.m" If you run each MATLAB file, you will be able to see the visualizations. But, I have also attached images of what they look like called "Visualizations from 2 MATLAB files.pdf"
+---I have also included two MATLAB files that contain my other two visualizations. They are labeled "ASSIGNMENT1.m" and "Assignment1_Matlab2.m" If you run each MATLAB file and open the EHRDataSample in MATLAB, you will be able to see the visualizations. But, I have also attached images of what they look like called "Visualizations from 2 MATLAB files.pdf"
 
 ---Additionally, I have posted files containing my MATLAB source code for each of the MATLAB visualizations.
 
